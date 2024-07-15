@@ -1,0 +1,1 @@
+Com um projeto de adquirir conhecimentos e experiência com desenvolvimento web. Fiz um recriação com HTML, JavaScript, e CSS. De um produto da empresa Apple, com propriedades interativas como escolher a cor do produto etc. Apenas um projeto para aprendizado de operações e recursos básicos mesmo
